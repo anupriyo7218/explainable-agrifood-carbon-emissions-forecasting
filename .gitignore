@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs (safe even if you don't use them)
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Generated reports (optional)
+reports/shap/*.npy
