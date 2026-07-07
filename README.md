@@ -142,9 +142,6 @@ The file `randomforest.pkl` exceeds GitHub's 25 MB upload limit and has therefor
 
 The archive is fully downloadable and can be extracted normally. No password is required.
 
-## 🚧 Project Update
-
-The Streamlit dashboard (app.py) is currently under development and will be added shortly, together with deployment on Streamlit Community Cloud.
 
 ---
 
